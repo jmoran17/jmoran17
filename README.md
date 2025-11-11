@@ -20,7 +20,7 @@
 |----------|--------------|------|
 | **Multi-UAV Search & Rescue System** | Multi-drone coordination with path planning, YOLO-based object detection, and OctoMap mapping | ROS2 • PX4 • C++ • Python |
 | **Maelstrom eVTOL Avionics** | Flight telemetry & autopilot integration for experimental eVTOL platform | C++ • PX4 • IMU/GPS |
-| **Domain Films ** | Full-stack streaming web app with authentication and MongoDB backend | React • Node.js • Express • MongoDB |
+| **Domain Films** | Full-stack streaming web app with authentication and MongoDB backend | React • Node.js • Express • MongoDB |
 | **Embedded RTOS Demo** | Real-time scheduling simulation on Raspberry Pi | C • FreeRTOS |
 
 ---
