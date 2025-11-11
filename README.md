@@ -18,7 +18,7 @@
 ## Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| **Multi-UAV Search & Rescue System** | Multi-drone coordination with path planning, YOLO-based object detection, and OctoMap mapping | ROS2 • PX4 • C++ • Python |
+| **Multi-UAV Search & Rescue System** | Multi-drone coordination with path planning, YOLO-based object detection, and OctoMap mapping | ROS2 • Jetson • C++ • Python |
 | **Maelstrom eVTOL Avionics** | Flight telemetry & autopilot integration for experimental eVTOL platform | C++ • PX4 • IMU/GPS |
 | **Domain Films** | Full-stack streaming web app with authentication and MongoDB backend | React • Node.js • Express • MongoDB |
 | **Embedded RTOS Demo** | Real-time scheduling simulation on Raspberry Pi | C • FreeRTOS |
@@ -55,8 +55,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![PX4](https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=white)
-![MAVROS](https://img.shields.io/badge/MAVROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
