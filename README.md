@@ -45,14 +45,34 @@
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Moran-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joseph-moran)  
-[![GitHub](https://img.shields.io/badge/GitHub-jmoran17-black?style=for-the-badge&logo=github)](https://github.com/jmoran17)
+## 🏆 GitHub Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=jmoran17&theme=tokyonight&title=Joined2020,Experience,Commits&margin-w=25&margin-h=25)
 
 ---
 
-## 🏆 GitHub Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=jmoran17&theme=tokyonight&title=Joined,Experience,Commits&margin-w=25&margin-h=25)
+## 🧰 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-000000?style=for-the-badge&logo=px4&logoColor=white)
+![MAVROS](https://img.shields.io/badge/MAVROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Moran-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joseph-moran)  
+[![GitHub](https://img.shields.io/badge/GitHub-jmoran17-black?style=for-the-badge&logo=github)](https://github.com/jmoran17)
 
 ---
 <!--
