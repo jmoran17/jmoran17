@@ -51,7 +51,7 @@
 
 ---
 
-![snake gif](https://github.com/jmoran17/jmoran17/blob/output/github-contribution-grid-snake.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=jmoran17&theme=tokyonight)
 
 ---
 <!--
