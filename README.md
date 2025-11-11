@@ -50,6 +50,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-jmoran17-black?style=for-the-badge&logo=github)](https://github.com/jmoran17)
 
 ---
+
+![snake gif](https://github.com/jmoran17/jmoran17/blob/output/github-contribution-grid-snake.svg)
+
+---
 <!--
 **jmoran17/jmoran17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
