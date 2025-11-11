@@ -52,7 +52,7 @@
 ---
 
 ## 🏆 GitHub Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=jmoran17&theme=tokyonight&title=Experience,Commits&margin-w=25&margin-h=25)
+![trophy](https://github-profile-trophy.vercel.app/?username=jmoran17&theme=tokyonight&title=Joined,Experience,Commits&margin-w=25&margin-h=25)
 
 ---
 <!--
