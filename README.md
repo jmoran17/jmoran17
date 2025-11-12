@@ -38,19 +38,19 @@
 
 ---
 
-##  What I’m Working On
+## What I’m Working On
 -  Developing **multi-UAV coordination algorithms** for autonomous search & rescue  
 -  Building a **real-time scheduling demo** using FreeRTOS on Raspberry Pi 5  
 -  Designing a **personal portfolio** (Next.js + Tailwind + Vercel)
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=jmoran17&theme=tokyonight&title=Joined2020,Experience,Commits&margin-w=25&margin-h=25)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,7 +68,7 @@
 ---
 
 
-## 🌐 Connect with Me  
+## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Moran-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joseph-moran)  
 [![GitHub](https://img.shields.io/badge/GitHub-jmoran17-black?style=for-the-badge&logo=github)](https://github.com/jmoran17)
 
