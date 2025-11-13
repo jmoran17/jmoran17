@@ -11,7 +11,6 @@
 -  Developing embedded software for **real-time control and sensor fusion**  
 -  Exploring **RTOS scheduling, SLAM, and distributed systems**  
 -  Experienced in **C++, Python, and full-stack (MERN) development**  
--  Always learning — currently diving deeper into **real-time optimization**
 
 ---
 
