@@ -1,6 +1,6 @@
 # Hi, I'm Joseph Moran  
 
-🎓 **Senior Computer Science Student @ Cal Poly Pomona (Graduating Fall 2025)**  
+🎓 **Computer Science Graduate from Cal Poly Pomona B.S. Fall 2025**  
 🚀 Passionate about **autonomous systems, robotics, and embedded software**  
 🤖 Currently working on **multi-UAV search & rescue systems** and **ROS2-based autonomy research**  
 
