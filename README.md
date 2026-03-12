@@ -44,11 +44,6 @@
 
 ---
 
-## GitHub Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=jmoran17&theme=tokyonight&title=Joined2020,Experience,Commits&margin-w=25&margin-h=25)
-
----
-
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
